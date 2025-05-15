@@ -19,7 +19,14 @@ This project dives deep into Superstore sales data to uncover key insights, iden
 - Seaborn
 - Jupyter Notebook
 
---> Results and Insights :
+🚀 Project Highlights :
+- Cleaned and processed raw sales data for accurate analysis.
+- Visualized sales trends, product performance, and customer behavior.
+- Identified high-performing product categories and regions.
+- Analyzed customer purchasing patterns and seasonal trends.
+- Generated actionable insights for revenue optimization and business growth.
+
+📊 Results and Insights :
 - Identified high-performing product categories  
 - Analyzed customer purchasing patterns  
 - Uncovered seasonal sales trends  
