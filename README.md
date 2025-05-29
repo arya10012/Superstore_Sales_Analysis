@@ -1,5 +1,5 @@
 📊 Superstore Sales Analysis :
-Data analytics project using Python on Jupyter Notebook to analyze Superstore sales data. This project explores sales trends, customer behavior, and product performance for strategic decision-making.
+Data analytics project using Python on Jupyter Notebook to analyze Superstore sales data. This project explores sales trends, customer behavior, and product performance for strategic decision-making. Also created a Superstore Sales Dashboard for better understanding and visualization.
 
 --> Key Features:
 - Data cleaning and preprocessing.
@@ -18,6 +18,8 @@ This project dives deep into Superstore sales data to uncover key insights, iden
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+- Power Bi
+- SQL
 
 🚀 Project Highlights :
 - Cleaned and processed raw sales data for accurate analysis.
